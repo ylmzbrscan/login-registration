@@ -1,0 +1,17 @@
+.user-list-container {
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-list-item {
+  margin: 5px;
+  padding: 5px;
+  background-color: #989292;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 200px;
+  list-style: none;
+}

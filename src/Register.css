@@ -1,0 +1,18 @@
+.register-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input {
+  margin: 10px;
+  padding: 8px;
+  width: 200px;
+}
+
+.register-button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
